@@ -1,0 +1,33 @@
+{
+  "name": "mind-space",
+  "version": "1.0.0",
+  "description": "Tensorspace powered NN3DV (Neural network 3D visualisation) for lowbot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Truemedia/mind-space.git"
+  },
+  "keywords": [
+    "mind",
+    "space",
+    "tensorspace",
+    "lowbot",
+    "tensorflow",
+    "three",
+    "tween",
+    "neural",
+    "network",
+    "visualization",
+    "bot",
+    "debug"
+  ],
+  "author": "Wade Penistone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Truemedia/mind-space/issues"
+  },
+  "homepage": "https://github.com/Truemedia/mind-space#readme"
+}
