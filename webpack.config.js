@@ -1,3 +1,4 @@
+const webpack = require('webpack')
 const path = require('path');
 
 module.exports = {
@@ -6,5 +7,10 @@ module.exports = {
   output: {
     filename: 'main.js',
     path: path.resolve(__dirname, 'public')
-  }
+  },
+  plugins: [
+    new webpack.ProvidePlugin({
+      'THREE': 'three'
+    })
+  ]
 };
