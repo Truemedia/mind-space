@@ -29,5 +29,11 @@
   "bugs": {
     "url": "https://github.com/Truemedia/mind-space/issues"
   },
-  "homepage": "https://github.com/Truemedia/mind-space#readme"
+  "homepage": "https://github.com/Truemedia/mind-space#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.14.2",
+    "@tweenjs/tween.js": "^17.2.0",
+    "tensorspace": "^0.3.0",
+    "three": "^0.100.0"
+  }
 }
